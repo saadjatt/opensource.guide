@@ -27,7 +27,7 @@ A code of conduct empowers you to facilitate healthy, constructive community beh
 
 Try to establish a code of conduct as early as possible: ideally, when you first create your project.
 
-In addition to communicating your expectations, a code of conduct describes the following:
+In addition to communicating your expectations, a code of conduct describes the following:ok
 
 * Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
 * Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
